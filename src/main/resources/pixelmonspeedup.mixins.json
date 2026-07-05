@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.pixelmonspeedup.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BattleControllerMixin",
+    "TacticalAIMixin",
+    "AdvancedAIMixin",
+    "AggressiveAIMixin"
+  ],
+  "client": [
+    "BattleLogElementMixin"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
