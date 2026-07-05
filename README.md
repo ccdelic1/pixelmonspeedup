@@ -1,4 +1,4 @@
-https://modrinth.com/mod/pixelmon-ability-randomizer
+https://modrinth.com/mod/pixelmon-speedup
 
 Made by CCDelic
 
